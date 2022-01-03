@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kossazts
+- 👀 I’m interested in became a better programer than i was yesterday.
+- 🌱 I’m currently learning JavaScript.
